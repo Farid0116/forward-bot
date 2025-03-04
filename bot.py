@@ -13,7 +13,7 @@ CHANNEL_IDENTIFIER = "UzTg_Price"  # Agar username bo‘lsa
 MESSAGE_ID = 2  # **To‘g‘ri ID kiriting!**
 
 # 🔹 Xabar yuboriladigan guruh va kanallar ID-lari
-TARGET_GROUPS = [-1002085547736, -1002137321912, -1002208256136, -1002222348198, -1002458058163]
+TARGET_GROUPS = [-1002085547736, -1002137321912, -1002208256136, -1002458058163]
 
 client = TelegramClient("bot_session", API_ID, API_HASH)
 
